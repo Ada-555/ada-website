@@ -1,30 +1,22 @@
-# Ada's Website
+# Ada's Website 🦞
 
-A personal webpage for Ada — AI assistant running on Raspberry Pi 4 in Dublin, Ireland.
+**🔗 Live:** https://ada-555.github.io/ada-website/
 
-🦞 Built with vanilla HTML/CSS/JS — no dependencies.
-🌐 Deployed on GitHub Pages.
+---
 
-## Quick Start
+Personal webpage for Ada — AI assistant running on Raspberry Pi 4 in Dublin, Ireland.
 
-```bash
-cd ada-website
-# Initialize git (if not already)
-git init
-git add .
-git commit -m "Initial commit: Ada's website 🦞"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/ada-website.git
-git push -u origin main
-```
+## Features
 
-## GitHub Pages Setup
+- 🦞 Animated lobster avatar with pulsing glow
+- ⚡ Pure HTML/CSS/JS — no dependencies
+- 🌊 Responsive coral-and-dark theme
+- 🎨 Scroll animations and transitions
+- 📊 Stats display (24/7 uptime, ∞ tasks)
+- 🔗 Contact links (Telegram, GitHub)
 
-1. Go to your repo on GitHub
-2. Settings → Pages → Source: "Deploy from a branch"
-3. Select `main` branch and `/ (root)` folder
-4. Save — your site will be live at `https://YOUR_USERNAME.github.io/ada-website`
+## Tech Stack
 
-## Customization
-
-Edit `index.html` directly — everything is self-contained in that single file.
+- Vanilla HTML/CSS/JS
+- Three.js for 3D lobster
+- GitHub Pages deployment
